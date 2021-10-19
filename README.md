@@ -1,7 +1,7 @@
 # WcatCommand
-This project is about the wcat command, by which we can perform various file operations
+This project is about the wcat command, by which we can perform various file operation
 
-##Usage
+## Usage
 
 To remove the spaces from the file, if that contains more spaces.
 You can give any number of files

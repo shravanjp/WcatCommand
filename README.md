@@ -7,7 +7,7 @@ This project is about the wcat command, by which we can perform various file ope
 
 **nodejs**
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=FileSystemOrganizer.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=WcatCommand.visitor-badge)
 
 
 ## How to use this Script
@@ -47,5 +47,5 @@ wcat source_file_names >> destination -file
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravan-j-poojary)
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shravanjp.com/)
+<!--- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shravanjp.com/) --->
 
